@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="php7">
+    <serverData>
+      <paths name="php7">
+        <serverdata>
+          <mappings>
+            <mapping deploy="shiyan1" local="$PROJECT_DIR$" web="/shiyan1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
